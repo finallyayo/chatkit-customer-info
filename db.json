@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "John Doe",
+      "email": "john@example.com",
+      "location": "Tampa, Florida, United States",
+      "company": "Free Money Limited",
+      "phone": "123456789"
+    },
+    {
+      "name": "Sarah You",
+      "email": "sarah@example.com",
+      "location": "Texas, United States",
+      "company": "Really Good Limited",
+      "phone": "987654321"
+    }
+  ]
+}
