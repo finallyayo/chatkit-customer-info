@@ -38,7 +38,7 @@ const ChatWidget = props => {
   );
 };
 
-ChatWidget.proptypes = {
+ChatWidget.propTypes = {
   newMessage: Proptypes.string.isRequired,
   handleInput: Proptypes.func.isRequired,
   sendMessage: Proptypes.func.isRequired,

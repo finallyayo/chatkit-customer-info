@@ -43,7 +43,7 @@ const Dialog = props => {
   );
 };
 
-Dialog.proptypes = {
+Dialog.propTypes = {
   userId: Proptypes.string.isRequired,
   username: Proptypes.string.isRequired,
   handleInput: Proptypes.func.isRequired,
